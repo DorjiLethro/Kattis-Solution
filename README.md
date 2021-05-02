@@ -1,0 +1,2 @@
+# Kattis-Solution
+No duplicate
